@@ -13,3 +13,4 @@ dependencies:
   - dask
   - flopy
   - osgeo
+  - pandas
